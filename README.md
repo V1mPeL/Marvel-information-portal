@@ -9,6 +9,7 @@ This is a project that utilizes the Marvel API to display information about Marv
    - React hooks
    - API
    - Formik + Yup
+   - React Helmet
 
 ### Installation
     1. Clone the repository: git clone https://github.com/V1mPeL/Marvel-information-portal.git
